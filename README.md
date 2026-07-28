@@ -8,8 +8,7 @@ Built using a deep **Convolutional Neural Network (CNN)** trained on the massive
 ---
 
 ## 🚀 Live Demo
-🔗 **[Click here to view the live web application](ADD_YOUR_LIVE_STREAMLIT_URL_HERE)** *(Replace this with your live link once deployed)*
-
+🔗 **[Click here to view the live web application](https://character-digit-recognizer-abhishek.streamlit.app/)** 
 ---
 
 ## ✨ Features
@@ -75,4 +74,4 @@ If you want to run this application locally on your laptop, follow these steps:
 ---
 
 ## 👤 Author
-- **Your Name** - *Initial Developer* - [Your GitHub Profile](https://github.com)
+- **Abhishek Jadhav** - *Initial Developer* - (https://github.com/Abhishek-45-AJ)
