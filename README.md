@@ -1,5 +1,5 @@
 ﻿# character-digit-recognizer
-# 🔢🔤 Smart Handwritten Character Recognition App
+# Smart Handwritten Character Recognition App
 
 An interactive, high-accuracy web application that recognizes hand-drawn **digits (0-9)**, **uppercase letters (A-Z)**, and **lowercase letters (a-z)** in real-time. 
 
